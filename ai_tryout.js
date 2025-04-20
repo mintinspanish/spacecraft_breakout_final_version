@@ -1,4 +1,5 @@
 import {GoogleGenAI} from "@google/genai";
+import {API_key} from "API_key.env"
 
 const ai = new GoogleGenAI({ apiKey: API_key });
 
