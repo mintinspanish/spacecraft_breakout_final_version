@@ -1,0 +1,86 @@
+body {
+    background-image: url("Bg/bedroom.png");
+    background-size: cover;
+}
+
+button {
+    padding: 5px 10px;
+    font-size:16px;
+    cursor: pointer;
+    font-family: Arial, sans-serif;
+    width: auto;
+    text-align: center;
+    margin-top: 5px;
+    margin-right: 50px;
+    margin-left: 1180px;
+}
+
+p, select {
+    width: 700px;
+    font-family: Arial, sans-serif;
+    text-align: right;
+    font-size: 24px;
+    margin: 50px 70px 5px auto;
+    padding: 10px;
+}
+
+.dialogueUp {
+    margin-top: 55px;
+
+}
+
+.dialogueDown {
+    margin-top: 500px;
+    width: 550px;
+}
+
+.dialogueDown2 {
+    margin-top: 550px;
+    width: 550px;
+}
+
+.dialogueWithButton {
+    margin-top: 190px;
+    margin-bottom: 120px;
+    width: 550px;
+}
+
+.dialogueCenter {
+    margin: 200px auto auto;
+    width: 550px;
+    text-align: center;
+}
+
+#userInput {
+    font-size: 24px;
+}
+
+label {
+    color: gray;
+}
+
+#consoleRight {
+    margin-left: 1155px;
+}
+
+#consoleCenter {
+    margin-left: 600px;
+}
+
+#answer, #question1, #question2, #question5 {
+    width: 400px;
+    margin-left: 450px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+#dropdown3, #dropdown4 {
+    width: 400px;
+    margin-left: 830px;
+    margin-right: 10px;
+    margin-top: -10px;
+}
+
+.container {
+    height: 300px;
+}
