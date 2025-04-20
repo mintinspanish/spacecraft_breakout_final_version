@@ -1,4 +1,4 @@
-Hi! Welcome to Spacecraft Breakout. /n
+Hi! Welcome to Spacecraft Breakout. 
 Aliens have captured you thinking you were a COW 
 and now you've got to scape so that they don't do 
 experiments on you.
