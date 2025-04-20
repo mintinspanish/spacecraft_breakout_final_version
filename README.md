@@ -1,6 +1,6 @@
 Hi! Welcome to Spacecraft Breakout. 
 Aliens have captured you thinking you were a COW 
-and now you've got to scape so that they don't do 
+and now you've got to escape so that they don't do 
 experiments on you.
 In this game, you will pass five levels with 
 questions related to a topic you choose. If you 
